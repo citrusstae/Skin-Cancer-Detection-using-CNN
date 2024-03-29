@@ -33,8 +33,7 @@ This repository implements a CNN-based model for classifying skin lesions as ben
 - **src/**: Contains Python code for model development and evaluation:
     - `model.py`: Defines the CNN architecture.
     - `train.py`: Implements the training process.
-    - `evaluate.py` (optional): Evaluates the model's performance on a test set.
-    - `utils.py` (optional): Houses utility functions for data preprocessing and visualization.
+    - `evaluate.py`: Evaluates the model's performance on a test set.
 - **requirements.txt**: Lists required Python libraries.
 - **README.md**: This file.
 
