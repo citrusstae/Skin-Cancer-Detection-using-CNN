@@ -1,0 +1,8 @@
+tensorflow==2.16.1
+keras==3.0.5
+matplotlib
+numpy
+pandas
+seaborn
+Pillow  # PIL fork
+scikit-learn
