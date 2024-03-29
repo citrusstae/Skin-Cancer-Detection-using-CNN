@@ -1,0 +1,7 @@
+Download malignant and benign from this link
+https://www.isic-archive.com
+
+images must be stored in this order
+data/
+  benign/  # Folder containing all benign skin lesion images
+  malignant/  # Folder containing all malignant skin lesion images
